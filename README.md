@@ -8,7 +8,7 @@ In this project, I have learnt the skills required to be a Machine Learning Engi
 
 The goal as an MLE is to ship a **scalable** and **safe** image classification model. Once the model is deployed, it should scale to meet demands and have safeguards to monitor and control for drift or degraded performance.
 
-I have used **AWS SageMaker** to build, train, and deploy an image classification model capable of distinguishing between bicycles and motorcycles. Additionally, I've used **AWS Lambda** functions and **AWS Step Functions** to create supporting services and orchestrate the workflow.
+I have used **AWS SageMaker** to build, train, and deploy an image classification model capable of distinguishing between bicycles and motorcycles. Additionally, I've used **AWS Lambda** functions and **AWS Step Functions** to create supporting services and orchestrate the workflow. I have achieved a validation accuracy of 0.833333 and a train accuracy of 0.976815.
 
 ---
 
