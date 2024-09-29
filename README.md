@@ -1,4 +1,4 @@
-# Project: Build an ML Workflow for Scones Unlimited on Amazon SageMaker
+# ML Workflow for Scones Unlimited on Amazon SageMaker
 
 ## Project Introduction
 
